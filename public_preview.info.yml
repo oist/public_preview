@@ -1,0 +1,8 @@
+name: Public Preview
+type: module
+description: Allows access to unpublished nodes.
+core_version_requirement: ^8 || ^9 || ^10
+package: Content
+
+dependencies:
+  - drupal:node
