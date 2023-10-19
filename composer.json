@@ -17,7 +17,7 @@
     "require": {
         "ext-PDO": "*",
         "drupal/core": "^8.0 || ^9.0 || ^10",
-        "symfony/dependency-injection": "^3.4 || ^4.4",
+        "symfony/dependency-injection": "^3.4 || ^4.4 || ^6",
         "symfony/http-kernel": "^3.4 || ^4.4"
     }
 }
